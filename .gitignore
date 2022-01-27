@@ -1,2 +1,3 @@
 ../node_modules
 /server api/node_modules
+/server frontend/node_modules
